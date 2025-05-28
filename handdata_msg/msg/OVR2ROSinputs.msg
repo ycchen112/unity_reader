@@ -1,8 +1,0 @@
-# Inputs
-bool button_upper
-bool button_lower
-bool thumb_stick
-float32 thumb_stick_horizontal
-float32 thumb_stick_vertical
-float32 press_index
-float32 press_middle
